@@ -1,0 +1,129 @@
+TRANSACTION MONITORING PROCEDURES
+First National Bank - BSA/AML Department
+Effective Date: November 1, 2024
+
+============================================
+1. OVERVIEW
+============================================
+
+These procedures establish the process for monitoring customer transactions to detect potentially suspicious activity in compliance with the Bank Secrecy Act and related regulations.
+
+============================================
+2. MONITORING SYSTEM CONFIGURATION
+============================================
+
+2.1 System Overview
+The Bank utilizes [Vendor Name] Transaction Monitoring System to analyze customer transactions against predefined scenarios and thresholds.
+
+2.2 Monitoring Scenarios
+The following scenario categories are deployed:
+- Structuring detection
+- Large cash activity
+- Wire transfer patterns
+- ACH anomalies
+- Rapid movement of funds
+- High-risk geography transactions
+
+============================================
+3. TUNING METHODOLOGY
+============================================
+
+3.1 Tuning Schedule
+Transaction monitoring thresholds and scenarios are reviewed:
+- Quarterly: Comprehensive threshold review
+- Monthly: Alert volume analysis
+- As needed: In response to regulatory changes or new risks
+
+3.2 Tuning Process
+Step 1: Data Collection
+- Gather alert statistics for review period
+- Calculate false positive rates by scenario
+- Analyze SAR conversion rates
+
+Step 2: Analysis
+- Compare current thresholds against peer benchmarks
+- Review missed activity (if any)
+- Assess regulatory guidance impacts
+
+Step 3: Recommendations
+- Document proposed threshold changes
+- Prepare business justification
+- Calculate expected impact on alert volumes
+
+Step 4: Approval
+- Present recommendations to BSA Officer
+- Obtain written approval before implementation
+- Document rationale in tuning log
+
+Step 5: Implementation
+- Configure changes in test environment
+- Validate expected behavior
+- Promote to production during maintenance window
+
+3.3 Tuning Documentation
+All tuning decisions are documented including:
+- Date of change
+- Scenario/threshold affected
+- Previous and new values
+- Business rationale
+- Approving authority
+- Implementation date
+
+============================================
+4. ALERT INVESTIGATION
+============================================
+
+4.1 Alert Assignment
+Alerts are automatically assigned to analysts based on:
+- Alert priority score
+- Analyst workload
+- Specialization requirements
+
+4.2 Investigation Steps
+1. Review alert details and triggering activity
+2. Examine customer profile and history
+3. Analyze related transactions
+4. Check external sources (if warranted)
+5. Document findings
+6. Make SAR/No-SAR determination
+
+4.3 Investigation Timeframes
+- Priority 1 (High): Complete within 24 hours
+- Priority 2 (Medium): Complete within 48 hours
+- Priority 3 (Low): Complete within 5 business days
+
+4.4 Escalation Procedures
+Alerts requiring escalation:
+- Potential law enforcement involvement
+- Senior management customers
+- Significant dollar amounts (>$100,000)
+- Complex schemes
+
+============================================
+5. QUALITY ASSURANCE
+============================================
+
+5.1 Alert Review QA
+- 10% sample of closed alerts reviewed monthly
+- Focus on SAR decisions and documentation quality
+- Findings reported to BSA Officer
+
+5.2 System Performance Monitoring
+- Daily alert generation statistics
+- Weekly scenario performance reports
+- Monthly executive dashboard
+
+============================================
+6. RECORDKEEPING
+============================================
+
+All alert investigations and supporting documentation retained for minimum 5 years from date of alert closure.
+
+============================================
+APPROVAL
+============================================
+
+Prepared by: BSA Analyst Team
+Reviewed by: BSA Officer
+Approved: November 1, 2024
+

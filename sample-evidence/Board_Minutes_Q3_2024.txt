@@ -1,0 +1,112 @@
+FIRST NATIONAL BANK
+BOARD OF DIRECTORS MEETING MINUTES
+October 20, 2024
+
+============================================
+ATTENDEES
+============================================
+
+Directors Present:
+- John Smith, Chairman
+- Mary Johnson, Vice Chairman  
+- Robert Williams, Director
+- Susan Davis, Director
+- Michael Brown, Director
+
+Also Present:
+- James Wilson, President & CEO
+- Sarah Johnson, BSA Officer
+- Thomas Anderson, Chief Risk Officer
+- Jennifer Lee, Corporate Secretary
+
+============================================
+CALL TO ORDER
+============================================
+
+The meeting was called to order at 9:00 AM by Chairman Smith. A quorum was established with all directors present.
+
+============================================
+AGENDA ITEM 1: APPROVAL OF PRIOR MINUTES
+============================================
+
+Motion to approve the minutes of the September 15, 2024 meeting.
+Motion by: Director Williams
+Seconded by: Director Davis
+Vote: Unanimous approval
+
+============================================
+AGENDA ITEM 2: FINANCIAL PERFORMANCE
+============================================
+
+President Wilson presented Q3 2024 financial results. [Details omitted for this excerpt]
+
+============================================
+AGENDA ITEM 3: BSA/AML PROGRAM UPDATE
+============================================
+
+BSA Officer Sarah Johnson presented the quarterly BSA/AML report.
+
+Key Discussion Points:
+
+1. SAR Filing Activity
+- 47 SARs filed in Q3 2024
+- Consistent with prior quarters
+- No significant trends identified
+
+2. Transaction Monitoring Performance
+- Alert volumes stable at approximately 1,200/month
+- False positive rate: 78% (target: <80%)
+- Average investigation time: 2.3 days
+
+3. Transaction Monitoring Tuning Update
+- BSA Officer presented the NEW TUNING METHODOLOGY DOCUMENT for Board approval
+- Document establishes quarterly review schedule
+- Includes threshold adjustment criteria and approval requirements
+- Chief Risk Officer confirmed alignment with regulatory expectations
+
+4. Regulatory Updates
+- FinCEN proposed rulemaking on beneficial ownership
+- Staff monitoring developments and will report impacts
+
+5. Training Status
+- Annual BSA training 94% complete
+- Deadline extended to November 15 for remaining staff
+
+Board Discussion:
+Director Johnson inquired about the tuning methodology approval process. BSA Officer confirmed that all threshold changes require BSA Officer approval, with significant changes escalated to the Board Risk Committee.
+
+Director Brown asked about peer benchmarking. BSA Officer indicated thresholds are compared against industry surveys and vendor recommendations.
+
+RESOLUTION 2024-42: BSA/AML Policy and Tuning Methodology Approval
+
+RESOLVED, that the Board of Directors hereby approves:
+1. The updated BSA/AML Policy Version 2.1
+2. The new Transaction Monitoring Tuning Methodology document
+
+Motion by: Director Johnson
+Seconded by: Director Williams
+Vote: Unanimous approval
+
+============================================
+AGENDA ITEM 4: RISK COMMITTEE REPORT
+============================================
+
+[Additional agenda items omitted for this excerpt]
+
+============================================
+ADJOURNMENT
+============================================
+
+There being no further business, the meeting was adjourned at 11:45 AM.
+
+Next Meeting: November 17, 2024
+
+Respectfully submitted,
+
+_______________________
+Jennifer Lee
+Corporate Secretary
+
+Approved: _______________________
+          John Smith, Chairman
+

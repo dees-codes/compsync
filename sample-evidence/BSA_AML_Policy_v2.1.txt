@@ -1,0 +1,101 @@
+BSA/AML POLICY DOCUMENT
+Version 2.1 - October 2024
+First National Bank
+
+============================================
+SECTION 1: PURPOSE AND SCOPE
+============================================
+
+This policy establishes the framework for the Bank's Bank Secrecy Act (BSA) and Anti-Money Laundering (AML) compliance program in accordance with federal regulations including the Bank Secrecy Act, USA PATRIOT Act, and FinCEN guidance.
+
+============================================
+SECTION 2: GOVERNANCE AND OVERSIGHT
+============================================
+
+2.1 Board of Directors Responsibilities
+- Approve BSA/AML policy annually
+- Receive quarterly BSA reports
+- Ensure adequate resources for compliance program
+
+2.2 BSA Officer Responsibilities
+- Day-to-day management of BSA/AML program
+- Filing of Suspicious Activity Reports (SARs)
+- Coordination with regulators and law enforcement
+
+============================================
+SECTION 3: CUSTOMER DUE DILIGENCE
+============================================
+
+3.1 Customer Identification Program (CIP)
+All customers must be identified and verified prior to account opening using government-issued identification.
+
+3.2 Customer Risk Rating
+Customers are assigned risk ratings (High, Medium, Low) based on:
+- Product types utilized
+- Geographic location
+- Transaction patterns
+- Industry/occupation
+
+3.3 Enhanced Due Diligence (EDD)
+High-risk customers require enhanced due diligence including:
+- Senior management approval
+- Source of funds documentation
+- Enhanced ongoing monitoring
+
+============================================
+SECTION 4: TRANSACTION MONITORING
+============================================
+
+4.1 Automated Monitoring System
+The Bank utilizes an automated transaction monitoring system to identify potentially suspicious activity. The system is configured with scenarios and thresholds appropriate to the Bank's risk profile.
+
+4.2 Tuning Methodology
+Transaction monitoring parameters shall be reviewed and tuned on a quarterly basis, or more frequently as warranted by changes in risk profile, regulatory guidance, or system performance metrics.
+
+The tuning process includes:
+- Analysis of alert volumes and disposition rates
+- Review of SAR filing patterns
+- Assessment of false positive rates
+- Comparison against peer institution benchmarks
+
+4.3 Alert Investigation
+Generated alerts are investigated by trained BSA analysts within established timeframes:
+- High priority alerts: 24 hours
+- Medium priority alerts: 48 hours
+- Low priority alerts: 5 business days
+
+============================================
+SECTION 5: SUSPICIOUS ACTIVITY REPORTING
+============================================
+
+5.1 SAR Filing Requirements
+SARs shall be filed for transactions of $5,000 or more when the Bank knows, suspects, or has reason to suspect the transaction:
+- Involves funds from illegal activity
+- Is designed to evade reporting requirements
+- Has no apparent lawful purpose
+
+5.2 SAR Quality Control
+All SARs are reviewed by the BSA Officer prior to filing to ensure:
+- Accurate and complete information
+- Clear narrative describing suspicious activity
+- Appropriate supporting documentation
+
+============================================
+SECTION 6: TRAINING
+============================================
+
+All employees receive BSA/AML training upon hire and annually thereafter. Training is tailored to job responsibilities and includes:
+- General BSA/AML awareness
+- Red flags for suspicious activity
+- Reporting procedures
+
+============================================
+APPROVAL
+============================================
+
+Approved by Board of Directors: October 15, 2024
+Next Review Date: October 2025
+
+Signed: _______________________
+       Chairman, Board of Directors
+

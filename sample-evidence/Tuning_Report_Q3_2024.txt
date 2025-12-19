@@ -1,0 +1,127 @@
+TRANSACTION MONITORING TUNING REPORT
+Q3 2024 Review
+First National Bank
+
+============================================
+EXECUTIVE SUMMARY
+============================================
+
+This report documents the quarterly tuning review conducted for the Bank's transaction monitoring system covering the period July 1 - September 30, 2024.
+
+Key Findings:
+- 3 scenarios adjusted for improved detection
+- False positive rate reduced by 12% from prior quarter
+- 2 new scenarios recommended for Q4 implementation
+- Overall system performance meets regulatory expectations
+
+============================================
+ALERT VOLUME ANALYSIS
+============================================
+
+Monthly Alert Generation:
+- July 2024: 1,187 alerts
+- August 2024: 1,245 alerts
+- September 2024: 1,198 alerts
+- Q3 Average: 1,210 alerts/month
+
+Alert Disposition:
+- Closed - No Suspicious Activity: 942 (78%)
+- Closed - SAR Filed: 47 (4%)
+- Closed - Enhanced Monitoring: 156 (13%)
+- Pending Investigation: 65 (5%)
+
+============================================
+SCENARIO PERFORMANCE
+============================================
+
+Scenario: Large Cash Transactions
+- Previous Threshold: $8,000
+- Alert Volume: 287/month
+- SAR Conversion Rate: 2.1%
+- RECOMMENDATION: Lower threshold to $7,500
+- Rationale: Recent guidance emphasizes structuring detection below $10,000
+
+Scenario: Wire Transfer Velocity  
+- Previous Threshold: 5 wires per day
+- Alert Volume: 145/month
+- SAR Conversion Rate: 4.8%
+- RECOMMENDATION: Adjust to 4 wires per day
+- Rationale: Peer benchmarking indicates tighter controls
+
+Scenario: Rapid Movement of Funds
+- Previous Threshold: 80% of deposits moved within 48 hours
+- Alert Volume: 203/month
+- SAR Conversion Rate: 6.2%
+- RECOMMENDATION: No change - performing well
+
+Scenario: ACH Structuring Detection
+- Previous Configuration: Basic pattern matching
+- Alert Volume: 178/month
+- SAR Conversion Rate: 1.8%
+- RECOMMENDATION: Enhance pattern detection algorithm
+- Rationale: Below-target SAR conversion indicates missed activity
+
+============================================
+THRESHOLD ADJUSTMENTS IMPLEMENTED
+============================================
+
+Change #1: Large Cash Scenario
+- Effective Date: October 1, 2024
+- Previous: $8,000
+- New: $7,500
+- Expected Impact: +15% alert volume
+- Approval: BSA Officer, September 25, 2024
+
+Change #2: Wire Transfer Velocity
+- Effective Date: October 1, 2024
+- Previous: 5 per day
+- New: 4 per day
+- Expected Impact: +20% alert volume
+- Approval: BSA Officer, September 25, 2024
+
+Change #3: ACH Pattern Detection
+- Effective Date: October 15, 2024
+- Enhancement: Added 3-day rolling pattern analysis
+- Expected Impact: +10% alert volume, improved detection
+- Approval: BSA Officer, September 28, 2024
+
+============================================
+FALSE POSITIVE ANALYSIS
+============================================
+
+Q3 2024 False Positive Rate: 78%
+Q2 2024 False Positive Rate: 82%
+Improvement: 12% reduction
+
+Contributing Factors:
+- Refined customer segmentation
+- Improved baseline calculations
+- Removal of redundant scenarios
+
+============================================
+RECOMMENDATIONS FOR Q4 2024
+============================================
+
+1. Implement cryptocurrency-related scenario
+   - Risk assessment indicates growing exposure
+   - Vendor has available scenario package
+
+2. Add peer-to-peer payment monitoring
+   - Zelle and similar services increasing
+   - Current scenarios do not adequately cover
+
+3. Continue monitoring adjusted thresholds
+   - Validate expected alert volume increases
+   - Assess SAR conversion rate impacts
+
+============================================
+APPROVAL
+============================================
+
+Prepared by: Transaction Monitoring Team
+Date: October 5, 2024
+
+Reviewed and Approved:
+Sarah Johnson, BSA Officer
+Date: October 8, 2024
+
